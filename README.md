@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+### Why R3?
+The main motivation behind creating a reading group is to formalize the process of reading and discussion about a particular topic. We plan to have a talk every Monday.
+
+### Group members:
+Udbhav, Pavan, Prabhav, Adithya, Kashyap
+
+### Schedule (with links to material)
+
+#### Mar 27, 2017: Basic Economics (by Udbhav)
+     
 
 You can use the [editor on GitHub](https://github.com/prabhavagrawal/r3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
