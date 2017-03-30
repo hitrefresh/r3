@@ -3,8 +3,7 @@
 
 ### Upcoming: Apr 3, 2017: [San Fransisco Housing Crisis] (by Kashyap)
 ### Mar 27, 2017: [Basic Economics](https://drive.google.com/open?id=0B-844AnmP8ZRNGxwLVZ0cHplRDA) (by Udbhav)
-Reference: [Principles of Economics by Mankiw](https://www.amazon.com/Principles-Economics-7th-Mankiws/dp/128516587X)
-
+Reference: [Principles of Economics by Mankiw](https://www.amazon.com/Principles-Economics-7th-Mankiws/dp/128516587X) <br>
 The talk is primarily structured around first two chapters of the book. Chapter1 provides a brief introduction to economics and then talks about the principles of economics - principles for individuals, principles for interactions and principles for the whole economy. Chapter 2 provides some of the economic models such as circular flow diagram and production possibilities frontier.
 
 ## Why R3?
@@ -12,7 +11,7 @@ Guy Kawasaki says: "The hardest part about getting started is getting started" a
 
 The main motivation behind creating this group is move our lazy asses to do something productive in our spare time. We believe that a schedule and deadline will force us to participate more actively in reading and discussion. Each person in the group will give a talk in a round robin fashion on a topic of their interest. We plan to have a session every Monday.
 
-### Group members:
+## Group members:
 Udbhav, Kashyap, Pavan, Prabhav, Adithya.
 
 ___
