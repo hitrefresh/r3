@@ -12,6 +12,7 @@ The main motivation behind creating a reading group is to formalize the process 
 
 ### Group members:
 Udbhav, Kashyap, Pavan, Prabhav, Adithya.
+
 ___
 
 You can use the [editor on GitHub](https://github.com/prabhavagrawal/r3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
