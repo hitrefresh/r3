@@ -1,8 +1,3 @@
-### Why R3?
-The main motivation behind creating a reading group is to formalize the process of reading and discussion about a particular topic. We plan to have a talk every Monday.
-
-### Group members:
-Udbhav, Kashyap, Pavan, Prabhav, Adithya.
 
 ### Schedule (with links to material)
 
@@ -12,6 +7,11 @@ Reference: [Principles of Economics by Mankiw](https://www.amazon.com/Principles
 
 The talk is primarily structured around first two chapters of the book. Chapter1 provides a brief introduction to economics and then talks about the principles of economics - principles for individuals, principles for interactions and principles for the whole economy. Chapter 2 provides some of the economic models such as circular flow diagram and production possibilities frontier.
 
+### Why R3?
+The main motivation behind creating a reading group is to formalize the process of reading and discussion about a particular topic. We plan to have a talk every Monday.
+
+### Group members:
+Udbhav, Kashyap, Pavan, Prabhav, Adithya.
 ___
 
 You can use the [editor on GitHub](https://github.com/prabhavagrawal/r3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
