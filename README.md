@@ -12,7 +12,7 @@ The talk is primarily structured around first two chapters of the book. Chapter1
 
 #### Upcoming: Apr 3, 2017: [San Fransisco Housing Crisis] (by Kashyap)
 
-
+___
 
 You can use the [editor on GitHub](https://github.com/prabhavagrawal/r3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
