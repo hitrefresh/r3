@@ -6,7 +6,7 @@ Udbhav, Pavan, Prabhav, Adithya, Kashyap
 
 ### Schedule (with links to material)
 
-#### Mar 27, 2017: Basic Economics (by Udbhav)
+#### Mar 27, 2017: [Basic Economics](https://drive.google.com/open?id=0B-844AnmP8ZRNGxwLVZ0cHplRDA) (by Udbhav)
      
 
 You can use the [editor on GitHub](https://github.com/prabhavagrawal/r3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
