@@ -9,6 +9,7 @@ Udbhav, Pavan, Prabhav, Adithya, Kashyap
 #### Upcoming: Apr 3, 2017: [San Fransisco Housing Crisis] (by Kashyap)
 #### Mar 27, 2017: [Basic Economics](https://drive.google.com/open?id=0B-844AnmP8ZRNGxwLVZ0cHplRDA) (by Udbhav)
 Reference: [Principles of Economics by Mankiw](https://www.amazon.com/Principles-Economics-7th-Mankiws/dp/128516587X)
+
 The talk is primarily structured around first two chapters of the book. Chapter1 provides a brief introduction to economics and then talks about the principles of economics - principles for individuals, principles for interactions and principles for the whole economy. Chapter 2 provides some of the economic models such as circular flow diagram and production possibilities frontier.
 
 ___
