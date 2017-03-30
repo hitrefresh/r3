@@ -1,5 +1,4 @@
 ## Schedule (with links to material)
-
 ### Upcoming: Apr 3, 2017: [San Fransisco Housing Crisis] (by Kashyap)
 ### Mar 27, 2017: [Basic Economics](https://drive.google.com/open?id=0B-844AnmP8ZRNGxwLVZ0cHplRDA) (by Udbhav)
 Reference: [Principles of Economics by Mankiw](https://www.amazon.com/Principles-Economics-7th-Mankiws/dp/128516587X) <br>
