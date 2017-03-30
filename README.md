@@ -2,7 +2,7 @@
 The main motivation behind creating a reading group is to formalize the process of reading and discussion about a particular topic. We plan to have a talk every Monday.
 
 ### Group members:
-Udbhav, Pavan, Prabhav, Adithya, Kashyap
+Udbhav, Kashyap, Pavan, Prabhav, Adithya.
 
 ### Schedule (with links to material)
 
