@@ -1,14 +1,14 @@
-## Why R3?
+## Why r<sup>3</sup>?
 Guy Kawasaki says, "the hardest part about getting started is getting started", and it's *so* true for procrastinators like us. All of us want to read articles, posts, and books about the things we're interested in; but something or the other gets in the way, and sometimes, we are just too lazy. Here, we say goodbye to all of that!
 
 The main motivation behind creating this group is to motivate our lazy asses to do something productive in our spare time. We believe that a schedule and deadline will force us to participate more actively in reading and discussion. Each person in the group will give a talk in a round-robin fashion on a topic of their interest. We plan to have a session every Monday.
 
-## Group members:
+## Group Members
 Udbhav, Kashyap, Pavan, Prabhav, Adithya, Skanda
 
-## Schedule (with links to material)
+## Schedule
 
-### Upcoming: Apr 10, 2017: [TBD] (by TBD)
+### Upcoming: Apr 10, 2017: TBD (by TBD)
 
 ### Apr 3, 2017: The San Francisco Housing Crisis (by Kashyap)
 Reference: [How Burrowing Owls Lead To Vomiting Anarchists (Or SF's Housing Crisis Explained)](https://techcrunch.com/2014/04/14/sf-housing/)<br/>
