@@ -10,7 +10,7 @@ Udbhav, Kashyap, Pavan, Prabhav, Adithya, Skanda
 
 ### Upcoming: Apr 10, 2017: [TBD] (by TBD)
 
-### Apr 3, 2017: [San Francisco Housing Crisis] (by Kashyap)
+### Apr 3, 2017: The San Francisco Housing Crisis (by Kashyap)
 Reference: [How Burrowing Owls Lead To Vomiting Anarchists (Or SF's Housing Crisis Explained)](https://techcrunch.com/2014/04/14/sf-housing/)
 I'll review what the crisis looks like in numbers, some of the global housing trends such as "The Great Inversion", and the development of the "Slow Growth" movement in SF and California, beginning with the 1950s. We'll look at how rent control came to be, how neighborhood groups and developers have worked with policies and regulations, and where tech fits into all of this.
 
