@@ -7,9 +7,10 @@ The main motivation behind creating this group is move our lazy asses to do some
 Udbhav, Kashyap, Pavan, Prabhav, Adithya, Skanda.
 
 ## Schedule (with links to material)
-### Apr 3, 2017: [Basic Economics: Part II](https://drive.google.com/open?id=0B-844AnmP8ZRUGhtQTZ3bi1iQ0E) (by Udbhav)
-Udbhav reviewed production posssibilites again and the concave shape of the curve. He also talked about how trade can provide benefit to both the parties involved in trade and gave examples of it. 
 ### Upcoming: Apr 3, 2017: [San Fransisco Housing Crisis] (by Kashyap)
+### Apr 3, 2017: [Basic Economics: Part II](https://drive.google.com/open?id=0B-844AnmP8ZRUGhtQTZ3bi1iQ0E) (by Udbhav)
+Reference: [Principles of Economics by Mankiw](https://www.amazon.com/Principles-Economics-7th-Mankiws/dp/128516587X) <br>
+Udbhav reviewed production posssibilites again and the concave shape of the curve. He also talked about how trade can provide benefit to both the parties involved in trade and gave examples of it. 
 ### Mar 27, 2017: [Basic Economics: Part I](https://drive.google.com/open?id=0B-844AnmP8ZRNGxwLVZ0cHplRDA) (by Udbhav)
 Reference: [Principles of Economics by Mankiw](https://www.amazon.com/Principles-Economics-7th-Mankiws/dp/128516587X) <br>
 The talk is primarily structured around first two chapters of the book. Chapter1 provides a brief introduction to economics and then talks about the principles of economics - principles for individuals, principles for interactions and principles for the whole economy. Chapter 2 provides some of the economic models such as circular flow diagram and production possibilities frontier.
