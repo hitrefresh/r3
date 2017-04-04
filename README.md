@@ -4,10 +4,11 @@ Guy Kawasaki says: "The hardest part about getting started is getting started" a
 The main motivation behind creating this group is move our lazy asses to do something productive in our spare time. We believe that a schedule and deadline will force us to participate more actively in reading and discussion. Each person in the group will give a talk in a round robin fashion on a topic of their interest. We plan to have a session every Monday.
 
 ## Group members:
-Udbhav, Kashyap, Pavan, Prabhav, Adithya.
+Udbhav, Kashyap, Pavan, Prabhav, Adithya, Skanda.
 
 ## Schedule (with links to material)
-### Upcoming: Apr 3, 2017: [Basic Economics: Part II] (by Udbhav)
+### Apr 3, 2017: [Basic Economics: Part II](https://drive.google.com/open?id=0B-844AnmP8ZRUGhtQTZ3bi1iQ0E) (by Udbhav)
+Udbhav reviewed production posssibilites again and the concave shape of the curve. He also talked about how trade can provide benefit to both the parties involved in trade and gave examples of it. 
 ### Upcoming: Apr 3, 2017: [San Fransisco Housing Crisis] (by Kashyap)
 ### Mar 27, 2017: [Basic Economics: Part I](https://drive.google.com/open?id=0B-844AnmP8ZRNGxwLVZ0cHplRDA) (by Udbhav)
 Reference: [Principles of Economics by Mankiw](https://www.amazon.com/Principles-Economics-7th-Mankiws/dp/128516587X) <br>
