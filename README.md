@@ -12,14 +12,17 @@ Udbhav, Kashyap, Pavan, Prabhav, Adithya, Skanda
 
 ### Apr 3, 2017: The San Francisco Housing Crisis (by Kashyap)
 Reference: [How Burrowing Owls Lead To Vomiting Anarchists (Or SF's Housing Crisis Explained)](https://techcrunch.com/2014/04/14/sf-housing/)
+
 I'll review what the crisis looks like in numbers, some of the global housing trends such as "The Great Inversion", and the development of the "Slow Growth" movement in SF and California, beginning with the 1950s. We'll look at how rent control came to be, how neighborhood groups and developers have worked with policies and regulations, and where tech fits into all of this.
 
 ### Apr 3, 2017: [Basic Economics: Part II](https://drive.google.com/open?id=0B-844AnmP8ZRUGhtQTZ3bi1iQ0E) (by Udbhav)
-Reference: [Principles of Economics by Mankiw](https://www.amazon.com/Principles-Economics-7th-Mankiws/dp/128516587X) <br>
+Reference: [Principles of Economics by Mankiw](https://www.amazon.com/Principles-Economics-7th-Mankiws/dp/128516587X)
+
 Udbhav reviewed production posssibilites again and the concave shape of the curve. He also talked about how trade can provide benefit to both the parties involved in trade and gave examples of it.
 
 ### Mar 27, 2017: [Basic Economics: Part I](https://drive.google.com/open?id=0B-844AnmP8ZRNGxwLVZ0cHplRDA) (by Udbhav)
-Reference: [Principles of Economics by Mankiw](https://www.amazon.com/Principles-Economics-7th-Mankiws/dp/128516587X) <br>
+Reference: [Principles of Economics by Mankiw](https://www.amazon.com/Principles-Economics-7th-Mankiws/dp/128516587X)
+
 The talk is primarily structured around first two chapters of the book. Chapter 1 provides a brief introduction to economics and then talks about the principles of economics: principles for individuals, principles for interactions, and principles for the whole economy. Chapter 2 provides some of the economic models such as the circular flow diagram and the production possibilities frontier.
 
 ___
