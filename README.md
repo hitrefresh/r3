@@ -10,7 +10,7 @@ Udbhav, Kashyap, Pavan, Prabhav, Skanda
 
 
 ### Upcoming: Apr 10, 2017: So Good They Can't Ignore You (by Prabhav)
-Reference: [So Good They Can't Ignore You by Cal Newport](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/)
+Reference: [So Good They Can't Ignore You by Cal Newport](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/) <br/>
 This book debunks the popular belief that "follow your passion" is good career advice. Cal then lists a set of rules/templates which people should follow for having a happy and successful career. He also provides examples how people's career fit into the templates given by him. For more details about the author and his previous works, please refer to his [website](http://calnewport.com/)
 
 ### Upcoming: Apr 10, 2017: The Design of Everyday Things (by Pavan)
