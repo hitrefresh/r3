@@ -8,7 +8,13 @@ Udbhav, Kashyap, Pavan, Prabhav, Adithya, Skanda
 
 ## Schedule
 
-### Upcoming: Apr 10, 2017: TBD (by TBD)
+
+### Upcoming: Apr 10, 2017: So Good They Can't Ignore You (by Prabhav)
+Reference: [So Good They Can't Ignore You by Cal Newport](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/)
+This book debunks the popular belief that "follow your passion" is good career advice. Cal then lists a set of rules/templates which people should follow for having a happy and successful career. He also provides examples how people's career fit into the templates given by him. For more details about the author and his previous works, please refer to his [website](http://calnewport.com/)
+
+### Upcoming: Apr 10, 2017: The Design of Everyday Things (by Pavan)
+TODO: Add summary and links
 
 ### Apr 3, 2017: The San Francisco Housing Crisis (by Kashyap)
 Reference: [How Burrowing Owls Lead To Vomiting Anarchists (Or SF's Housing Crisis Explained)](https://techcrunch.com/2014/04/14/sf-housing/)<br/>
