@@ -8,8 +8,10 @@ Udbhav, Kashyap, Pavan, Prabhav, Skanda
 
 ## Schedule
 
+### Apr 17, 2017: Hiking The Grand Canyon (by Skanda)
+TODO: Add summary and links
 
-### Upcoming: Apr 17, 2017: So Good They Can't Ignore You (by Prabhav)
+### Apr 17, 2017: So Good They Can't Ignore You (by Prabhav)
 Reference: [So Good They Can't Ignore You by Cal Newport](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/), [Prabhav's notes](https://drive.google.com/open?id=0B-844AnmP8ZRSWVENFdSeUxiNFE) <br/>
 This book debunks the popular belief that "follow your passion" is good career advice. Cal then lists a set of rules/templates which people should follow for having a happy and successful career. He also provides examples how people's career fit into the templates given by him. For more details about the author and his previous works, please refer to his [website](http://calnewport.com/)
 
