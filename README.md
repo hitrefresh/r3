@@ -9,7 +9,8 @@ Udbhav, Kashyap, Pavan, Prabhav, Skanda
 ## Schedule
 
 ### Apr 17, 2017: Hiking The Grand Canyon (by Skanda)
-TODO: Add summary and links
+Reference: [Dank PPT](https://drive.google.com/file/d/0B7zfGHX4UX7iRFZOU085VFRsLUk/view?usp=sharing)<br/>
+Hikng the Grand Canyon, and rim to rim at that, is a feather that most avid hikers seek to add to their cap. This presentation takes you through everything you need to know to successfully hike the Grand Canyon, from terrain to gear to training, with the added bonus of an awes inspiring motivational message by one of the greatest thought leaders alive.
 
 ### Apr 17, 2017: So Good They Can't Ignore You (by Prabhav)
 Reference: [So Good They Can't Ignore You by Cal Newport](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/), [Prabhav's notes](https://drive.google.com/open?id=0B-844AnmP8ZRSWVENFdSeUxiNFE) <br/>
