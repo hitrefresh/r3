@@ -4,13 +4,17 @@ Guy Kawasaki says, "the hardest part about getting started is getting started", 
 The main motivation behind creating this group is to motivate our lazy asses to do something productive in our spare time. We believe that a schedule and deadline will force us to participate more actively in reading and discussion. Each person in the group will give a talk in a round-robin fashion on a topic of their interest. We plan to have a session every Monday.
 
 ## Group Members
-Udbhav, Kashyap, Pavan, Prabhav, Skanda
+Chetan, Pavan, Prabhav, Kashyap, Skanda, Udbhav
 
 ## Schedule
 
+### May 10, 2017: SEDA: An Architecture for Well-Conditioned, Scalable Internet Services (by Kashyap)
+Reference: [PDF](https://github.com/tpn/pdfs/blob/master/SEDA%20-%20An%20Architecture%20for%20Well-Conditioned,%20Scalable%20Internet%20Services%20(seda-sosp01).pdf)
+TODO(kashyap): Add summary.
+
 ### Apr 17, 2017: Hiking The Grand Canyon (by Skanda)
 Reference: [Dank PPT](https://drive.google.com/file/d/0B7zfGHX4UX7iRFZOU085VFRsLUk/view?usp=sharing)<br/>
-Hikng the Grand Canyon, and rim to rim at that, is a feather that most avid hikers seek to add to their cap. This presentation takes you through everything you need to know to successfully hike the Grand Canyon, from terrain to gear to training, with the added bonus of an awes inspiring motivational message by one of the greatest thought leaders alive.
+Hiking the Grand Canyon, and rim to rim at that, is a feather that most avid hikers seek to add to their cap. This presentation takes you through everything you need to know to successfully hike the Grand Canyon, from terrain to gear to training, with the added bonus of an awes inspiring motivational message by one of the greatest thought leaders alive.
 
 ### Apr 17, 2017: So Good They Can't Ignore You (by Prabhav)
 Reference: [So Good They Can't Ignore You by Cal Newport](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/), [Prabhav's notes](https://drive.google.com/open?id=0B-844AnmP8ZRSWVENFdSeUxiNFE) <br/>
