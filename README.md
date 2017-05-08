@@ -8,7 +8,7 @@ Chetan, Pavan, Prabhav, Kashyap, Skanda, Udbhav
 
 ## Schedule
 
-### May 10, 2017: SEDA: An Architecture for Well-Conditioned, Scalable Internet Services (by Kashyap)
+### May 17, 2017: SEDA: An Architecture for Well-Conditioned, Scalable Internet Services (by Kashyap)
 Reference: [PDF](https://github.com/tpn/pdfs/blob/master/SEDA%20-%20An%20Architecture%20for%20Well-Conditioned,%20Scalable%20Internet%20Services%20(seda-sosp01).pdf)<br/>
 TODO(kashyap): Add summary.
 
