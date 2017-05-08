@@ -20,8 +20,9 @@ Hiking the Grand Canyon, and rim to rim at that, is a feather that most avid hik
 Reference: [So Good They Can't Ignore You by Cal Newport](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/), [Prabhav's notes](https://drive.google.com/open?id=0B-844AnmP8ZRSWVENFdSeUxiNFE) <br/>
 This book debunks the popular belief that "follow your passion" is good career advice. Cal then lists a set of rules/templates which people should follow for having a happy and successful career. He also provides examples how people's career fit into the templates given by him. For more details about the author and his previous works, please refer to his [website](http://calnewport.com/)
 
-### Upcoming: Apr 10, 2017: The Design of Everyday Things (by Pavan)
-TODO: Add summary and links
+### Apr 10, 2017: The Design of Everyday Things (by Pavan)
+Reference: [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123), [Intro to Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101), [Pavan's notes](https://drive.google.com/open?id=0B-6i1rQlClwUWWFjQW5mSW53NEk) <br/>
+"Why are some everyday things so hard to use?". To help answer this question, Don Norman describes a set of principles and terms that define good or bad designs. This includes Affordances, Signifiers, Conceptual Model, System Image, Discoverability, Feedback, Mapping and "7 stages of action" or steps on how people do things. We conclude with a discusson on how to put this into real world with an excercise.
 
 ### Apr 3, 2017: The San Francisco Housing Crisis (by Kashyap)
 Reference: [How Burrowing Owls Lead To Vomiting Anarchists (Or SF's Housing Crisis Explained)](https://techcrunch.com/2014/04/14/sf-housing/)<br/>
