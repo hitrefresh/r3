@@ -14,6 +14,14 @@ TODO(kashyap): Add summary.
 
 ### May 29, 2017: Memorial Day!
 
+### May 29, 2017: Fun with the Calendars: Part II (by Chetan)
+Reference: Most of the talk was based on an old Marathi book - Aakashashi Jadavu Naate by S. S. Gokhale. Other sources - wikipedia and internet. Original sources - Siddhant Shiromani by Bhaskara II and Suryasiddhanta. English translations of both are available freely on google books.
+This session was the continuation of the previous session and covered the remaining topics i.e. Seasons, Year, Precession - of the earth and the Moon, and Epochs.
+
+### May 15, 2017: Fun with the Calendars: Part I (by Chetan)
+Reference: Most of the talk was based on an old Marathi book - Aakashashi Jadavu Naate by S. S. Gokhale. Other sources - wikipedia and internet. Original sources - Siddhant Shiromani by Bhaskara II and Suryasiddhanta. English translations of both are available freely on google books.
+This session introduced us with the basics of calendar systems with the focus on traditional hindu calendar system. The talk was broken down into following major parts - Geocentric system, Rasis, Nakshatras and Charans (building blocks and vocabulary), Day, Days of a Week, Month (Maas), Seasons, Year and Precession. This session covered topics until the concept of Month.
+
 ### May 3, 2017: Basic Economics: Elasticity and Policy Making (by Udbhav)
 Reference: [Principles of Economics by Mankiw](https://www.amazon.com/Principles-Economics-7th-Mankiws/dp/128516587X), [Udbhav's notes](https://drive.google.com/open?id=0ByfPhRmPL1voRVBPZXp5c2NKNU0)<br/>
 Udbhav talked about elasticity of the demand and supply curves and how they can be used to get quantitvae metrics about the market. We also see how elasticity can explain a lot of market trends and forces. Finally we do a review of how taxes affect the total output from a market and analyse how suppliers and consumers bear their burden.
