@@ -14,7 +14,7 @@ TODO(kashyap): Add summary.
 
 ### May 29, 2017: Memorial Day!
 
-### May 29, 2017: Fun with the Calendars: Part II (by Chetan)
+### May 22, 2017: Fun with the Calendars: Part II (by Chetan)
 Reference: Most of the talk was based on an old Marathi book - Aakashashi Jadavu Naate by S. S. Gokhale. Other sources - wikipedia and internet. Original sources - Siddhant Shiromani by Bhaskara II and Suryasiddhanta. English translations of both are available freely on google books.
 This session was the continuation of the previous session and covered the remaining topics i.e. Seasons, Year, Precession - of the earth and the Moon, and Epochs.
 
