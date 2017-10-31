@@ -8,14 +8,15 @@ Chetan, Pavan, Prabhav, Kashyap, Skanda, Udbhav
 
 ## Schedule
 
+### Oct 30 2017: Information Delivery under Endogenous Communication: Experimental Evidence from the Indian Demonetization (by Pooja)
+Reference: [Slides](https://drive.google.com/open?id=0B-844AnmP8ZRdG1wbFN6M3EyS3M)
+
 ### Aug 7, 31 & Sep 11 2017: GPUs (by Chetan)
 Reference:
 Summary:
 
 ### July 24 & 31, 2017: Best practices for machine learning (by Prabhav)
-Reference:
-Summary:
-
+Reference: [Martin's website](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 
 ### July 10, 2017: Music Theory (by Udbhav)
 Reference:
