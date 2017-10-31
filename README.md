@@ -13,26 +13,21 @@ Reference: [Slides](https://drive.google.com/open?id=0B-844AnmP8ZRdG1wbFN6M3EyS3
 
 ### Aug 7, 31 & Sep 11 2017: GPUs (by Chetan)
 Reference:
-Summary:
 
 ### July 24 & 31, 2017: Best practices for machine learning (by Prabhav)
 Reference: [Martin's website](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 
 ### July 10, 2017: Music Theory (by Udbhav)
 Reference:
-Summary:
 
 ### Jun 19, 2017: Intro to Kubernetes. Short 10-15 min demo of development and deployment with containers (by Pavan)
 Reference:
-Summary:
 
-### Jun 12, 2017: Microsoft white paper on azure storage. Comparison with HDFS (by Skanda)
-Reference:
-Summary:
+### Jun 12, 2017: Windows Azure storage. Comparison with HDFS (by Skanda)
+Reference: [MSDN Link](https://blogs.msdn.microsoft.com/windowsazurestorage/2011/11/20/sosp-paper-windows-azure-storage-a-highly-available-cloud-storage-service-with-strong-consistency/)
 
 ### Jun 5, 2017: SEDA: An Architecture for Well-Conditioned, Scalable Internet Services (by Kashyap)
 Reference: [PDF](https://github.com/tpn/pdfs/blob/master/SEDA%20-%20An%20Architecture%20for%20Well-Conditioned,%20Scalable%20Internet%20Services%20(seda-sosp01).pdf)<br/>
-TODO(kashyap): Add summary.
 
 ### May 29, 2017: Memorial Day!
 
