@@ -8,8 +8,10 @@ Chetan, Pavan, Prabhav, Kashyap, Skanda, Udbhav, Pooja, Abhinav
 
 ## Schedule
 
-### Oct 30 2017: Information Delivery under Endogenous Communication: Experimental Evidence from the Indian Demonetization (by Pooja)
-Reference:
+### Nov 6, 2017:  (by Pooja)
+
+### Oct 30, 2017: Information Delivery under Endogenous Communication: Experimental Evidence from the Indian Demonetization (by Pooja)
+Reference: Confidential
 
 ### Aug 7, 31 & Sep 11 2017: GPUs (by Chetan)
 Reference:
