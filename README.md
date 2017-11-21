@@ -8,7 +8,12 @@ Chetan, Pavan, Prabhav, Kashyap, Skanda, Udbhav, Pooja, Abhinav
 
 ## Schedule
 
-### Nov 6, 2017:  (by Pooja)
+### Nov 20, 2017: Prosody of Indian languages (by Chetan)
+
+### Nov 13, 2017: (by Udbhav)
+
+### Nov 6, 2017: Opiod Epidemic in American (by Pooja)
+Reference: [Doc](https://drive.google.com/open?id=1T76V2WUt6hf23vpaVioBAafl469xbcBd)
 
 ### Oct 30, 2017: Information Delivery under Endogenous Communication: Experimental Evidence from the Indian Demonetization (by Pooja)
 Reference: Confidential
