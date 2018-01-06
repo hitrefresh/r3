@@ -8,7 +8,7 @@ Chetan, Pavan, Prabhav, Kashyap, Skanda, Udbhav, Pooja, Abhinav
 
 ## Schedule
 
-### Nov 20, 2017: Prosody of Indian languages (by Chetan)
+### Nov 20 & 29 2017: Prosody of Indian languages (by Chetan)
 
 ### Nov 13, 2017: (by Udbhav)
 
