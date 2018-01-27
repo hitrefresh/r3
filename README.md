@@ -65,15 +65,23 @@ Abhinav, Chetan, Kashyap, Mayank, Pavan, Pooja, Prabhav, Radheshyam, Shashank, S
 
 ### May 29, 2017: Memorial Day!
 
-### May 22, 2017: Fun with the Calendars: Part II (by Chetan)
+### May 22, 2017: Fun with Calendars: Part II (by Chetan)
 <table>
   <tr><td>Reference(s)</td>
-      <td>Same as Part I below.</td></tr>
+      <td>Same as Part I below.</td></tr>
   <tr><td>Summary</td>
       <td>This session was the continuation of the previous session and covered the remaining topics i.e. Seasons, Year, Precession - of the earth and the Moon, and Epochs.</td></tr>
 </table>
 
-### May 15, 2017: Fun with the Calendars: Part I (by Chetan)
+### May 22, 2017: Fun with Calendars: Part II (by Chetan)
+<table>
+  <tr><td>Reference(s)</td>
+      <td>Same as Part I below.</td></tr>
+  <tr><td>Summary</td>
+      <td>This session was the continuation of the previous session and covered the remaining topics i.e. Seasons, Year, Precession - of the earth and the Moon, and Epochs.</td></tr>
+</table>
+
+### May 15, 2017: Fun with Calendars: Part I (by Chetan)
 <table>
   <tr><td>Reference(s)</td>
       <td>Most of the talk was based on an old Marathi book, Aakashashi Jadavu Naate by S. S. Gokhale. Other sources: wikipedia and internet. Original sources: Siddhant Shiromani by Bhaskara II and Suryasiddhanta. English translations of both are available freely on google books.</td></tr>
@@ -104,7 +112,6 @@ Abhinav, Chetan, Kashyap, Mayank, Pavan, Pooja, Prabhav, Radheshyam, Shashank, S
   <tr><td>Summary</td>
       <td>Hiking the Grand Canyon, and rim to rim at that, is a feather that most avid hikers seek to add to their cap. This presentation takes you through everything you need to know to successfully hike the Grand Canyon, from terrain to gear to training, with the added bonus of an awes inspiring motivational message by one of the greatest thought leaders alive.</td></tr>
 </table>
-
 
 ### Apr 17, 2017: So Good They Can't Ignore You (by Prabhav)
 <table>
