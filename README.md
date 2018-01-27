@@ -20,7 +20,7 @@ Abhinav, Chetan, Kashyap, Mayank, Pavan, Pooja, Prabhav, Radheshyam, Shashank, S
 
 ### Nov 20 & 29 2017: Prosody of Indian languages (by Chetan)
 
-### Nov 13, 2017: Principles of Economics, contd. (by Udbhav)
+### Nov 13, 2017: Basic Economics, contd. (by Udbhav)
 
 ### Nov 6, 2017: Opiod Epidemic in American (by Pooja)
 Reference: [Doc](https://drive.google.com/open?id=1T76V2WUt6hf23vpaVioBAafl469xbcBd)
@@ -37,7 +37,7 @@ Reference: [Martin's website](http://martin.zinkevich.org/rules_of_ml/rules_of_m
 ### July 10, 2017: Music Theory (by Udbhav)
 Reference:
 
-### Jun 19, 2017: Intro to Kubernetes. Short 10-15 min demo of development and deployment with containers (by Pavan)
+### Jun 19, 2017: Intro to Kubernetes. Short 10-15 min demo of development and deployment with containers (by Pavan).
 Reference:
 
 ### Jun 12, 2017: Windows Azure storage. Comparison with HDFS (by Skanda)
