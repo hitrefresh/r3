@@ -20,7 +20,7 @@ Abhinav, Chetan, Kashyap, Mayank, Pavan, Pooja, Prabhav, Radheshyam, Shashank, S
 
 ### Jan 16, 2018: Discussion on Cryptocurrencies (led by Shashank)
 
-### _Dec 4, 2017 - Jan 8, 2018: Holiday Break._
+### _Dec 4, 2017 - Jan 8, 2018: Holiday Break_
 
 ### Nov 20 & 29, 2017: Prosody of Indian languages (by Chetan)
 
