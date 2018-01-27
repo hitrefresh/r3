@@ -1,16 +1,26 @@
 ## Why r<sup>3</sup>?
-Guy Kawasaki says, "the hardest part about getting started is getting started", and it's *so* true for procrastinators like us. All of us want to read articles, posts, and books about the things we're interested in; but something or the other gets in the way, and sometimes, we are just too lazy. Here, we say goodbye to all of that!
+Guy Kawasaki says, "the hardest part about getting started is getting started", and it's especially true for procrastinators like us. We all want to read articles, posts, and books about the things we're interested in; but something or the other gets in the way, and sometimes, we are just too lazy. Here, we say goodbye to all that!
 
-The main motivation behind creating this group is to motivate our lazy asses to do something productive in our spare time. We believe that a schedule and deadline will force us to participate more actively in reading and discussion. Each person in the group will give a talk in a round-robin fashion on a topic of their interest. We plan to have a session every Monday.
+The main motivation behind creating this group is to drive our lazy asses to do something productive in our spare time. We believe that a schedule and deadline will force us to participate more actively in reading and discussion. Each person in the group will give a talk in a round-robin fashion on a topic of their interest. We plan to have a session every Monday.
 
 ## Group Members
-Chetan, Pavan, Prabhav, Kashyap, Skanda, Udbhav, Pooja, Abhinav
+Abhinav, Chetan, Kashyap, Mayank, Pavan, Pooja, Prabhav, Radheshyam, Shashank, Skanda, Udbhav
 
 ## Schedule
 
+### Feb 5: Meltdown and Spectre (by Skanda)
+
+### Jan 30: Photography (by Shashank)
+
+### Jan 23: Canceled due to mass confusion (led by Shashank).
+
+### Jan 16: Discussion on Cryptocurrencies (led by Shashank)
+
+### Dec 4 - Jan 8: Holiday break.
+
 ### Nov 20 & 29 2017: Prosody of Indian languages (by Chetan)
 
-### Nov 13, 2017: (by Udbhav)
+### Nov 13, 2017: Principles of Economics, contd. (by Udbhav)
 
 ### Nov 6, 2017: Opiod Epidemic in American (by Pooja)
 Reference: [Doc](https://drive.google.com/open?id=1T76V2WUt6hf23vpaVioBAafl469xbcBd)
@@ -21,7 +31,7 @@ Reference: Confidential
 ### Aug 7, 31 & Sep 11 2017: GPUs (by Chetan)
 Reference:
 
-### July 24 & 31, 2017: Best practices for machine learning (by Prabhav)
+### July 24 & 31, 2017: Best practices for Machine Learning (by Prabhav)
 Reference: [Martin's website](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 
 ### July 10, 2017: Music Theory (by Udbhav)
