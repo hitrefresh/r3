@@ -12,11 +12,11 @@ Abhinav, Chetan, Kashyap, Mayank, Pavan, Pooja, Prabhav, Radheshyam, Shashank, S
 
 ### Jan 30, 2018: Photography (by Shashank)
 
-### Jan 23, 2018: Canceled due to mass confusion (led by Shashank).
+### Jan 23, 2018: _Canceled due to mass confusion._
 
 ### Jan 16, 2018: Discussion on Cryptocurrencies (led by Shashank)
 
-### Dec 4, 2017 - Jan 8, 2018: Holiday break.
+### _Dec 4, 2017 - Jan 8, 2018: Holiday Break._
 
 ### Nov 20 & 29, 2017: Prosody of Indian languages (by Chetan)
 
@@ -63,7 +63,7 @@ Abhinav, Chetan, Kashyap, Mayank, Pavan, Pooja, Prabhav, Radheshyam, Shashank, S
     <td><a href="https://github.com/tpn/pdfs/blob/master/SEDA%20-%20An%20Architecture%20for%20Well-Conditioned,%20Scalable%20Internet%20Services%20(seda-sosp01).pdf">Paper on Github</a></td></tr>
 </table>
 
-### May 29, 2017: Memorial Day!
+### _May 29, 2017: Memorial Day_
 
 ### May 22, 2017: Fun with Calendars: Part II (by Chetan)
 <table>
