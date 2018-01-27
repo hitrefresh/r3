@@ -73,14 +73,6 @@ Abhinav, Chetan, Kashyap, Mayank, Pavan, Pooja, Prabhav, Radheshyam, Shashank, S
       <td>This session was the continuation of the previous session and covered the remaining topics i.e. Seasons, Year, Precession - of the earth and the Moon, and Epochs.</td></tr>
 </table>
 
-### May 22, 2017: Fun with Calendars: Part II (by Chetan)
-<table>
-  <tr><td>Reference(s)</td>
-      <td>Same as Part I below.</td></tr>
-  <tr><td>Summary</td>
-      <td>This session was the continuation of the previous session and covered the remaining topics i.e. Seasons, Year, Precession - of the earth and the Moon, and Epochs.</td></tr>
-</table>
-
 ### May 15, 2017: Fun with Calendars: Part I (by Chetan)
 <table>
   <tr><td>Reference(s)</td>
