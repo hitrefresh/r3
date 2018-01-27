@@ -6,6 +6,10 @@ The main motivation behind creating this group is to drive our lazy asses to do 
 ## Group Members
 Abhinav, Chetan, Kashyap, Mayank, Pavan, Pooja, Prabhav, Radheshyam, Shashank, Skanda, Udbhav
 
+### Group Rules
+- You talk about r<sup>3</sup>. 
+- If this is your first time at r<sup>3</sup>, you have to present.
+
 ## Schedule
 
 ### Feb 5, 2018: Meltdown and Spectre (by Skanda)
