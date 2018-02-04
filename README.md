@@ -12,6 +12,8 @@ Abhinav, Chetan, Kashyap, Mayank, Pavan, Pooja, Prabhav, Radheshyam, Shashank, S
 
 ## Schedule
 
+### Feb 12, 2018: Venture Deals (by Mayank)
+
 ### Feb 5, 2018: Meltdown and Spectre (by Skanda)
 
 ### Jan 30, 2018: Photography (by Shashank)
