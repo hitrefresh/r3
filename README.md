@@ -17,10 +17,21 @@ Abhinav, Chetan, Kashyap, Mayank, Pavan, Pooja, Prabhav, Radheshyam, Shashank, S
 ### Feb 5, 2018: Meltdown and Spectre (by Skanda)
 
 ### Jan 30, 2018: Photography (by Shashank)
+<table>
+  <tr><td>Reference(s)</td>
+    <td>An Introduction to the Science and Art of Photography</td>
+    <td><a href="https://drive.google.com/file/d/1lS5sto0OR8rWZTtkPO1H1eXFRgTJX18o/view?usp=sharing">Slides (PDF)</a></td>
+  </tr>
+</table>
 
 ### Jan 23, 2018: _Canceled due to mass confusion._
 
 ### Jan 16, 2018: Discussion on Cryptocurrencies (led by Shashank)
+<table>
+  <tr>
+    <td>Topics Discussed: Bitcoin, A History of Bitcoin, B-Money, BitGold, Cypherpunk movement, Blockchain, Merkle Trees, ICOs, Is Bitcoin a Ponzi Scheme?</td>
+  </tr>
+</table>
 
 ### _Dec 4, 2017 - Jan 8, 2018: Holiday Break_
 
@@ -29,7 +40,7 @@ Abhinav, Chetan, Kashyap, Mayank, Pavan, Pooja, Prabhav, Radheshyam, Shashank, S
 ### Nov 13, 2017: Basic Economics, contd. (by Udbhav)
 <table>
   <tr><td>Reference(s)</td>
-      <td><a href="https://www.amazon.com/Principles-Economics-7th-Mankiws/dp/128516587X">Principles of Economics by Mankiw</a></td></tr>
+    <td><a href="https://www.amazon.com/Principles-Economics-7th-Mankiws/dp/128516587X">Principles of Economics by Mankiw</a></td></tr>
 </table>
 
 ### Nov 6, 2017: Opiod Epidemic in America (by Pooja)
@@ -54,7 +65,7 @@ Abhinav, Chetan, Kashyap, Mayank, Pavan, Pooja, Prabhav, Radheshyam, Shashank, S
 
 ### July 10, 2017: Music Theory (by Udbhav)
 
-### Jun 19, 2017: Intro to Kubernetes. Short 10-15 min demo of development and deployment with containers (by Pavan).
+### Jun 19, 2017: Intro to Kubernetes. Short 10-15 min demo of development and deployment with containers (by Pavan)
 
 ### Jun 12, 2017: Windows Azure storage. Comparison with HDFS (by Skanda)
 <table>
@@ -92,7 +103,7 @@ Abhinav, Chetan, Kashyap, Mayank, Pavan, Pooja, Prabhav, Radheshyam, Shashank, S
   <tr><td>Reference(s)</td>
       <td><a href="https://www.amazon.com/Principles-Economics-7th-Mankiws/dp/128516587X">Principles of Economics by Mankiw</a>, <a href="https://drive.google.com/open?id=0ByfPhRmPL1voRVBPZXp5c2NKNU0">Notes by Udbhav</a></td></tr>
   <tr><td>Summary</td>
-      <td>Udbhav talked about elasticity of the demand and supply curves and how they can be used to get quantitvae metrics about the market. We also see how elasticity can explain a lot of market trends and forces. Finally we do a review of how taxes affect the total output from a market and analyse how suppliers and consumers bear their burden.</td></tr>
+      <td>Udbhav talked about elasticity of the demand and supply curves and how they can be used to get quantitative metrics about the market. We also see how elasticity can explain a lot of market trends and forces. Finally we do a review of how taxes affect the total output from a market and analyse how suppliers and consumers bear their burden.</td></tr>
 </table>
 
 ### Apr 26, 2017: Basic Economics: Supply and Demand (by Udbhav)
@@ -108,7 +119,7 @@ Abhinav, Chetan, Kashyap, Mayank, Pavan, Pooja, Prabhav, Radheshyam, Shashank, S
   <tr><td>Reference(s)</td>
       <td><a href="https://drive.google.com/file/d/0B7zfGHX4UX7iRFZOU085VFRsLUk/view?usp=sharing">Dank PPT by Skanda</a></td></tr>
   <tr><td>Summary</td>
-      <td>Hiking the Grand Canyon, and rim to rim at that, is a feather that most avid hikers seek to add to their cap. This presentation takes you through everything you need to know to successfully hike the Grand Canyon, from terrain to gear to training, with the added bonus of an awes inspiring motivational message by one of the greatest thought leaders alive.</td></tr>
+      <td>Hiking the Grand Canyon, and rim to rim at that, is a feather that most avid hikers seek to add to their cap. This presentation takes you through everything you need to know to successfully hike the Grand Canyon, from terrain to gear to training, with the added bonus of an awe-inspiring motivational message by one of the greatest thought leaders alive.</td></tr>
 </table>
 
 ### Apr 17, 2017: So Good They Can't Ignore You (by Prabhav)
@@ -124,7 +135,7 @@ Abhinav, Chetan, Kashyap, Mayank, Pavan, Pooja, Prabhav, Radheshyam, Shashank, S
   <tr><td>Reference(s)</td>
       <td><a href="https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123">The Design of Everyday Things by Dan Norman</a>, <a href="https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101">Intro to Design of Everyday Things on Udacity</a>, <a href="https://drive.google.com/open?id=0B-6i1rQlClwUWWFjQW5mSW53NEk">Notes by Pavan</a></td></tr>
   <tr><td>Summary</td>
-      <td>"Why are some everyday things so hard to use?". To help answer this question, Don Norman describes a set of principles and terms that define good or bad designs. This includes Affordances, Signifiers, Conceptual Model, System Image, Discoverability, Feedback, Mapping and "7 stages of action" or steps on how people do things. We conclude with a discusson on how to put this into real world with an excercise.</td></tr>
+      <td>"Why are some everyday things so hard to use?". To help answer this question, Don Norman describes a set of principles and terms that define good or bad designs. This includes Affordances, Signifiers, Conceptual Model, System Image, Discoverability, Feedback, Mapping and "7 stages of action" or steps on how people do things. We conclude with a discusson on how to put this into real world with an exercise.</td></tr>
 </table>
 
 ### Apr 3, 2017: The San Francisco Housing Crisis (by Kashyap)
