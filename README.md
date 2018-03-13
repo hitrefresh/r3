@@ -4,13 +4,23 @@ Guy Kawasaki says, "the hardest part about getting started is getting started", 
 The main motivation behind creating this group is to drive our lazy asses to do something productive in our spare time. We believe that a schedule and deadline will force us to participate more actively in reading and discussion. Each person in the group will give a talk in a round-robin fashion on a topic of their interest. We plan to have a session every Monday.
 
 ## Members
-Abhinav, Chetan, Kashyap, Mayank, Pavan, Pooja, Prabhav, Radheshyam, Shashank, Skanda, Udbhav
+Abhinav, Chetan, Divya, Kashyap, Mayank, Pavan, Pooja, Pooja, Prabhav, Radheshyam, Shashank, Skanda, Udbhav
 
 ## Rules
 - You talk about r<sup>3</sup>. 
 - If this is your first time at r<sup>3</sup>, you have to present.
 
 ## Schedule
+
+### Apr 3, 2018: TBD (by Kashyap)
+
+### Mar 27, 2018: TBD (by Pavan)
+
+### Mar 20, 2018: TBD (by Divya)
+
+### Mar 13, 2018: Principles of Economics, contd. (by Udbhav)
+
+### Mar 6, 2018: GANs (by Pooja)
 
 ### Feb 12, 2018: Venture Deals (by Mayank)
 
