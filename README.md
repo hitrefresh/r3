@@ -16,8 +16,11 @@ Abhinav, Chetan, Divya, Kashyap, Keshav, Mayank, Pavan, Pooja, Pooja, Prabhav, R
 
 ### Apr 10, 2018: TBD (by Kashyap)
 
-### Apr 3, 2018: TBD (by Pavan)
-
+### Apr 3, 2018: The Fourth Industrial Revolution, Klaus Schwab (by Pavan)
+<table>
+  <tr><td>Reference(s)</td>
+    <td><a href="https://drive.google.com/open?id=1USX4TXZuYrIS2Ez1mYhCooZCjWEuPa88">Notes by Pavan</a></td></tr>
+</table>
 ### Mar 27, 2018: TBD (by Divya)
 
 ### Mar 20, 2018: TBD (by Abhinav)
