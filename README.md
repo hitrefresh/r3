@@ -4,7 +4,7 @@ Guy Kawasaki says, "the hardest part about getting started is getting started", 
 The main motivation behind creating this group is to drive our lazy asses to do something productive in our spare time. We believe that a schedule and deadline will force us to participate more actively in reading and discussion. Each person in the group will give a talk in a round-robin fashion on a topic of their interest. We plan to have a session every Monday.
 
 ## Members
-Abhinav, Chetan, Divya, Kashyap, Keshav, Mayank, Pavan, Pooja, Pooja, Prabhav, Radheshyam, Shashank, Skanda, Udbhav
+Abhinav, Chetan, Divya, Kashyap, Keshav, Mayank, Pavan, Pooja S, Pooja V, Prabhav, Radheshyam, Shashank, Skanda, Srividhya, Udbhav
 
 ## Rules
 - You talk about r<sup>3</sup>. 
