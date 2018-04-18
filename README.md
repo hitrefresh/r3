@@ -38,6 +38,9 @@ Abhinav, Chetan, Divya, Kashyap, Keshav, Mayank, Pavan, Pooja S, Pooja V, Prabha
   <tr><td>Reference(s)</td>
     <td><a href="https://drive.google.com/open?id=1O9BbG-osw1vZW55_pf8A4qPjer8RaXl_">Slides (Keynote)</a></td>
   </tr>
+    <td>Summary</td>
+    <td>A brief introduction to CPU architecture followed by a discussion of the recently disclosed Spectre and Meltdown vulnerabilities on modern processors, what made them possible, how they were discovered, and what mitigations are being pursued by the computing industry.</td>
+  </tr>
 </table>
 
 ### Jan 30, 2018: Photography (by Shashank)
