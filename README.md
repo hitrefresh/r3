@@ -9,6 +9,7 @@ Abhinav, Chetan, Divya, Kashyap, Keshav, Mayank, Pavan, Pooja S, Pooja V, Prabha
 ## Rules
 - You talk about r<sup>3</sup>. 
 - If this is your first time at r<sup>3</sup>, you have to present.
+- Please add the slides in this [Google drive folder](https://drive.google.com/drive/folders/0B-844AnmP8ZReW9ZRnlNNk1oOGc?usp=sharing) and add link on the website.
 
 ## Schedule
 
@@ -187,4 +188,4 @@ Abhinav, Chetan, Divya, Kashyap, Keshav, Mayank, Pavan, Pooja S, Pooja V, Prabha
 
 ___
 
-You can use the [editor on GitHub](https://github.com/prabhavagrawal/r3/edit/master/README.md) to maintain and preview this content. Please add the slides in this [Google drive folder](https://drive.google.com/drive/folders/0B-844AnmP8ZReW9ZRnlNNk1oOGc?usp=sharing)
+You can use the [editor on GitHub](https://github.com/prabhavagrawal/r3/edit/master/README.md) to maintain and preview this content. 
