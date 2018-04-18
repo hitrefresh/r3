@@ -33,6 +33,11 @@ Abhinav, Chetan, Divya, Kashyap, Keshav, Mayank, Pavan, Pooja S, Pooja V, Prabha
 ### Feb 12, 2018: Venture Deals (by Mayank)
 
 ### Feb 5, 2018: Meltdown and Spectre (by Skanda)
+<table>
+  <tr><td>Reference(s)</td>
+    <td><a href="https://drive.google.com/open?id=1O9BbG-osw1vZW55_pf8A4qPjer8RaXl_">Slides (Keynote)</a></td>
+  </tr>
+</table>
 
 ### Jan 30, 2018: Photography (by Shashank)
 <table>
