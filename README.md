@@ -30,6 +30,12 @@ Abhinav, Chetan, Divya, Kashyap, Keshav, Mayank, Pavan, Pooja S, Pooja V, Prabha
 ### Mar 13, 2018: Principles of Economics, contd. (by Udbhav)
 
 ### Mar 6, 2018: GANs (by Pooja)
+<table>
+  <tr><td>Reference(s)</td>
+    <td> Generative Adversarial Nets</td>
+    <td><a href="https://drive.google.com/open?id=10B5g5MiwQzXSAxYoXcrnREBc3F2297G2">Slides (Keynote)</a></td>
+  </tr>
+</table>
 
 ### Feb 12, 2018: Venture Deals (by Mayank)
 
