@@ -38,6 +38,10 @@ Abhinav, Chetan, Divya, Kashyap, Keshav, Mayank, Pavan, Pooja S, Pooja V, Prabha
 </table>
 
 ### Feb 12, 2018: Venture Deals (by Mayank)
+<table>
+  <tr><td>Reference(s)</td>
+    <td><a href="https://drive.google.com/file/d/1O_spr_vcqkHLloAwqs6HgpzEkfkBu5S9/view?usp=sharing">Venture Deals by Brad Feld</a></td></tr>
+</table>
 
 ### Feb 5, 2018: Meltdown and Spectre (by Skanda)
 <table>
