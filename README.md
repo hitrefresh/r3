@@ -13,6 +13,13 @@ Abhinav, Chetan, Divya, Kashyap, Keshav, Mayank, Pavan, Pooja S, Pooja V, Prabha
 
 ## Schedule
 
+
+### July 17, 2018: Deep Work (by Mayank)
+<table>
+  <tr><td>Reference(s)</td>
+    <td><a href="https://drive.google.com/open?id=1k2MHy3L_Cq54oDBKWRHxJMnfpRvGuAsA">Deep Work by Cal Newport</a></td></tr>
+</table>
+
 ### Apr 17, 2018: TBD (by Keshav)
 
 ### Apr 10, 2018: TBD (by Kashyap)
