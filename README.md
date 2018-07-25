@@ -6,10 +6,26 @@ The main motivation behind creating this group is to drive our lazy asses to do 
 ## Members
 Abhinav, Chetan, Divya, Kashyap, Keshav, Mayank, Pavan, Pooja S, Pooja V, Prabhav, Radheshyam, Shashank, Skanda, Srividhya, Udbhav
 
+## Order of presenters as of 07/25
+* Prabhav Agarwal - 07/31
+* Pavan Kumar PN - 08/07
+* Chethan Gokhale
+* Abhinav Venkataraman
+* Divya Ravishankar
+* Keshav Mathur
+* Pooja Voladoddi
+* Kashyap Tumkur
+* Pooja Suri
+* Shashank Kaushik
+* Mayank Dhiman
+* Skanda Shamasunder
+
 ## Rules
 - You talk about r<sup>3</sup>. 
 - If this is your first time at r<sup>3</sup>, you have to present.
 - Please add the slides in this [Google drive folder](https://drive.google.com/drive/folders/0B-844AnmP8ZReW9ZRnlNNk1oOGc?usp=sharing) and add link on the website.
+- If you cannot present, provide at least 1 week's notice. The next speaker in the order will be speaking instead.
+- Penalty for not intimating at least a week in advance is $20 in the tip jar. (only acceptable excuses are acts of god and fatal injuries)
 
 ## Schedule
 
