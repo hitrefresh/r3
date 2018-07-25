@@ -13,6 +13,11 @@ Abhinav, Chetan, Divya, Kashyap, Keshav, Mayank, Pavan, Pooja S, Pooja V, Prabha
 
 ## Schedule
 
+### July 24, 2018: Apartheid and Trevor Noah's "Born a Crime" (by Skanda)
+<table>
+  <tr><td>Reference(s)</td>
+    <td><a href="https://drive.google.com/open?id=1fkllASmU2pqfBkdhijtswzT0Bmvq5Ojo">Apartheid and Trevor Noah's "Born a Crime"</a></td></tr>
+</table>
 
 ### July 17, 2018: Deep Work (by Mayank)
 <table>
