@@ -130,7 +130,11 @@ Abhinav, Chetan, Divya, Kashyap, Keshav, Mayank, Pavan, Pooja S, Pooja V, Prabha
 
 ### July 10, 2017: Music Theory (by Udbhav)
 
-### Jun 19, 2017: Intro to Kubernetes. Short 10-15 min demo of development and deployment with containers (by Pavan)
+### Jun 19, 2017: Containers 101. Short 10-15 min demo of development and deployment with containers (by Pavan)
+<table>
+  <tr><td>Reference(s)</td>
+    <td><a href="https://drive.google.com/open?id=0B-6i1rQlClwUbUh1Y2lxMVJua1E">Slides by Pavan</a></td></tr>
+</table>
 
 ### Jun 12, 2017: Windows Azure storage. Comparison with HDFS (by Skanda)
 <table>
