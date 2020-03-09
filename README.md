@@ -6,20 +6,6 @@ The main motivation behind creating this group is to drive our lazy asses to do 
 ## Members
 Abhinav, Chetan, Divya, Kashyap, Keshav, Mayank, Pavan, Pooja S, Pooja V, Prabhav, Radheshyam, Shashank, Skanda, Srividhya, Udbhav
 
-## Order of presenters as of 07/25
-* Prabhav Agarwal - 07/31
-* Pavan Kumar PN - 08/07
-* Chethan Gokhale
-* Abhinav Venkataraman
-* Divya Ravishankar
-* Keshav Mathur
-* Pooja Voladoddi
-* Kashyap Tumkur
-* Pooja Suri
-* Shashank Kaushik
-* Mayank Dhiman
-* Skanda Shamasunder
-
 ## Rules
 - You talk about r<sup>3</sup>. 
 - If this is your first time at r<sup>3</sup>, you have to present.
@@ -41,19 +27,12 @@ Abhinav, Chetan, Divya, Kashyap, Keshav, Mayank, Pavan, Pooja S, Pooja V, Prabha
     <td><a href="https://drive.google.com/open?id=1k2MHy3L_Cq54oDBKWRHxJMnfpRvGuAsA">Deep Work by Cal Newport</a></td></tr>
 </table>
 
-### Apr 17, 2018: TBD (by Keshav)
-
-### Apr 10, 2018: TBD (by Kashyap)
-
 ### Apr 3, 2018: The Fourth Industrial Revolution, Klaus Schwab (by Pavan)
 <table>
   <tr><td>Reference(s)</td>
     <td><a href="https://drive.google.com/open?id=1USX4TXZuYrIS2Ez1mYhCooZCjWEuPa88">Slides by Pavan (PDF) </a></td>
   </tr>
 </table>
-### Mar 27, 2018: TBD (by Divya)
-
-### Mar 20, 2018: TBD (by Abhinav)
 
 ### Mar 13, 2018: Principles of Economics, contd. (by Udbhav)
 
